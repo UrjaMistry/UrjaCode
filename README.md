@@ -1,2 +1,0 @@
-# Urja
-Marklogic java
