@@ -1,6 +1,0 @@
-# UrjaCode
-Marklogic java repository
-
-
-
-
